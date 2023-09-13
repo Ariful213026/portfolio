@@ -821,7 +821,12 @@ span {
     .header {
         background: #040f16;
     }
-
+.home-content h1{
+        font-size: 32px;
+    }
+    .home-content h3{
+        font-size: 25px;
+    }
  /* 
     .text {
         display: none;
