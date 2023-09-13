@@ -822,7 +822,11 @@ span {
         background: #040f16;
     }
 
+  * 
     .text {
+        display: none;
+    } */
+    .blog_contents img{
         display: none;
     }
    .home-img {
